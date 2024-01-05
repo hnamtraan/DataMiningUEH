@@ -1,16 +1,12 @@
-cff-version: 1.2.0
-message: "If you use this, please respectfully cite it as below."
+cff-version: 1.0.0
+message: If you use this software, please cite it using these details.
 authors:
-- family-names: "Tran P."
-  given-names: "H. Nam"
-- family-names: "Ly"
-  given-names: "M. Nguyen"
-- family-names: "Vo"
-  given-names: "M. Nguyen"
-- family-names: "Nguyen T."
-  given-names: "N. Nhi"
-- family-names: "Le"
-  given-names: "T. Phat"
-title: "NGHIÊN CỨU THUẬT TOÁN KHAI PHÁ TẬP PHỔ BIẾN ECLAT"
-date-released: 2024-05-01
-url: "https://github.com/hnamtraan/DataMiningUEH"
+  - name: Trần P. H. Nam
+  - name: Lý M. Nguyên
+  - name: Võ M. Nguyên
+  - name: Nguyễn T. N. Nhi
+  - name: Lê T. Phát
+title: Nghiên Cứu Thuật Toán Khai Phá Tập Phổ Biến ECLAT
+version: 1.0.0
+doi: 10.1234/example-doi
+date-released: 2023-12-01
