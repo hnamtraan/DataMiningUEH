@@ -1,13 +1,13 @@
 cff-version: 1.0.0
 message: If you use this software, please cite it using these details.
 authors:
-  - name: Trần P. H. Nam
-  - name: Lý M. Nguyên
-  - name: Võ M. Nguyên
-  - name: Nguyễn T. N. Nhi
-  - name: Lê T. Phát
-title: Nghiên Cứu Thuật Toán Khai Phá Tập Phổ Biến ECLAT
+  - name: "Trần P. H. Nam"
+  - name: "Lý M. Nguyên"
+  - name: "Võ M. Nguyên"
+  - name: "Nguyễn T. N. Nhi"
+  - name: "Lê T. Phát"
+title: "Nghiên Cứu Thuật Toán Khai Phá Tập Phổ Biến ECLAT"
 version: 0.1.0
 doi: 10.5281/zenodo.10461127
 date-released: 2024-01-05
-url: https://doi.org/10.5281/zenodo.10461127
+url: "https://doi.org/10.5281/zenodo.10461127"
